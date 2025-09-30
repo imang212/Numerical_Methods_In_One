@@ -1,2 +1,2 @@
-# NUM_v_jednom
-Tenhle report obssahuje vsechny Numericke metody a jejich popis, co jsme probírali na předmětu NUM a zadání z NUM.
+# Numerické metody v R
+Tenhle report obssahuje vsechny Numericke metody a jejich popis v R, co jsme probírali na předmětu NUM a zadání z NUM.
