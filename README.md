@@ -3,16 +3,9 @@ Tenhle report obssahuje vsechny Numericke metody a jejich popis v R, co jsme pro
 
 #### 1. Řešení soustav lineárních rovnic
 - Gaussova metoda
-<img width="573" height="332" alt="image" src="https://github.com/user-attachments/assets/5ce509b3-a11d-47ae-bc4a-9540f25ec9c7" />
-
 - metoda LU dekompozice
-<img width="563" height="280" alt="image" src="https://github.com/user-attachments/assets/852867d3-185e-48c2-90e4-abe85b975c76" />
-
 - Jacobiova metoda
-<img width="599" height="125" alt="image" src="https://github.com/user-attachments/assets/a15920ae-deb1-49cb-a76c-abdaa3330826" />
-
 - Gauss-seidelova metoda
-<img width="546" height="151" alt="image" src="https://github.com/user-attachments/assets/2071d04f-b71f-47dd-b5f4-7008b18c82e3" />
 
 
 #### 2. Interpolace (přesné proložení bodů)
