@@ -14,6 +14,7 @@ Tenhle report obssahuje vsechny Numericke metody a jejich popis v R, co jsme pro
 - Newtonova interpolace (polynomem) 
 - Vandermondova interpolace (výpočet koeficientů polynomu)
 - Hornerovo schéma (vyhodnocení polynomu)
+- Vyhdnocení chebyshevových polynomů
 - Hermitova interpolace (polynom s derivacemi)
 
 #### 3. Aproximace (hledání přibližné funkce pro danou závislost, nemusí procházet body)
